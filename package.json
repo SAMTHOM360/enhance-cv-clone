@@ -31,10 +31,6 @@
     "tailwindcss": "^4.1.7"
   },
   "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "tw-animate-css": "^1.2.9",
-    "typescript": "^5"
+    "tw-animate-css": "^1.2.9"
   }
 }
